@@ -1,0 +1,28 @@
+{
+  "auth": "zef:massa",
+  "authors": [
+    "Humberto Massa"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+    "Config",
+    "Net::NetRC"
+  ],
+  "description": "A NetRC parser for L<Config|https://github.com/scriptkitties/p6-Config>",
+  "license": "Artistic-2.0",
+  "name": "Config::Parser::NetRC",
+  "perl": "6.d",
+  "provides": {
+    "Config::Parser::NetRC": "lib/Config/Parser/NetRC.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "",
+  "tags": [
+  ],
+  "test-depends": [
+    "Test::META"
+  ],
+  "version": "0.0.1"
+}
