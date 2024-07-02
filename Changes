@@ -1,4 +1,6 @@
 Revision history for Config::Parser::NetRC
 
 {{$NEXT}}
+
+0.0.1  2024-07-02T11:26:51-03:00
     - Initial version
